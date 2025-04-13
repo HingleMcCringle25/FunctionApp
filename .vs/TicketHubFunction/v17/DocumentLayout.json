@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adria\\Special Topics\\Assignment 4 - Funtion App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F063448-F524-46B9-962C-27F9D7BB9BA4}|TicketHubFunction\\TicketHubFunction.csproj|c:\\users\\adria\\special topics\\assignment 4 - funtion app\\tickethubfunction\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F063448-F524-46B9-962C-27F9D7BB9BA4}|TicketHubFunction\\TicketHubFunction.csproj|solutionrelative:tickethubfunction\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F063448-F524-46B9-962C-27F9D7BB9BA4}|TicketHubFunction\\TicketHubFunction.csproj|c:\\users\\adria\\special topics\\assignment 4 - funtion app\\tickethubfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F063448-F524-46B9-962C-27F9D7BB9BA4}|TicketHubFunction\\TicketHubFunction.csproj|solutionrelative:tickethubfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F063448-F524-46B9-962C-27F9D7BB9BA4}|TicketHubFunction\\TicketHubFunction.csproj|c:\\users\\adria\\special topics\\assignment 4 - funtion app\\tickethubfunction\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F063448-F524-46B9-962C-27F9D7BB9BA4}|TicketHubFunction\\TicketHubFunction.csproj|solutionrelative:tickethubfunction\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F063448-F524-46B9-962C-27F9D7BB9BA4}|TicketHubFunction\\TicketHubFunction.csproj|c:\\users\\adria\\special topics\\assignment 4 - funtion app\\tickethubfunction\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F063448-F524-46B9-962C-27F9D7BB9BA4}|TicketHubFunction\\TicketHubFunction.csproj|solutionrelative:tickethubfunction\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F063448-F524-46B9-962C-27F9D7BB9BA4}|TicketHubFunction\\TicketHubFunction.csproj|c:\\users\\adria\\special topics\\assignment 4 - funtion app\\tickethubfunction\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F063448-F524-46B9-962C-27F9D7BB9BA4}|TicketHubFunction\\TicketHubFunction.csproj|solutionrelative:tickethubfunction\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F063448-F524-46B9-962C-27F9D7BB9BA4}|TicketHubFunction\\TicketHubFunction.csproj|c:\\users\\adria\\special topics\\assignment 4 - funtion app\\tickethubfunction\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F063448-F524-46B9-962C-27F9D7BB9BA4}|TicketHubFunction\\TicketHubFunction.csproj|solutionrelative:tickethubfunction\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F063448-F524-46B9-962C-27F9D7BB9BA4}|TicketHubFunction\\TicketHubFunction.csproj|c:\\users\\adria\\special topics\\assignment 4 - funtion app\\tickethubfunction\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{6F063448-F524-46B9-962C-27F9D7BB9BA4}|TicketHubFunction\\TicketHubFunction.csproj|solutionrelative:tickethubfunction\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\Special Topics\\Assignment 4 - Funtion App\\TicketHubFunction\\Ticket.cs",
+              "RelativeDocumentMoniker": "TicketHubFunction\\Ticket.cs",
+              "ToolTip": "C:\\Users\\adria\\Special Topics\\Assignment 4 - Funtion App\\TicketHubFunction\\Ticket.cs",
+              "RelativeToolTip": "TicketHubFunction\\Ticket.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T20:48:50.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "host.json",
+              "DocumentMoniker": "C:\\Users\\adria\\Special Topics\\Assignment 4 - Funtion App\\TicketHubFunction\\host.json",
+              "RelativeDocumentMoniker": "TicketHubFunction\\host.json",
+              "ToolTip": "C:\\Users\\adria\\Special Topics\\Assignment 4 - Funtion App\\TicketHubFunction\\host.json",
+              "RelativeToolTip": "TicketHubFunction\\host.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-11T20:30:29.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\Special Topics\\Assignment 4 - Funtion App\\TicketHubFunction\\Program.cs",
+              "RelativeDocumentMoniker": "TicketHubFunction\\Program.cs",
+              "ToolTip": "C:\\Users\\adria\\Special Topics\\Assignment 4 - Funtion App\\TicketHubFunction\\Program.cs",
+              "RelativeToolTip": "TicketHubFunction\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T20:28:38.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\adria\\Special Topics\\Assignment 4 - Funtion App\\TicketHubFunction\\local.settings.json",
+              "RelativeDocumentMoniker": "TicketHubFunction\\local.settings.json",
+              "ToolTip": "C:\\Users\\adria\\Special Topics\\Assignment 4 - Funtion App\\TicketHubFunction\\local.settings.json",
+              "RelativeToolTip": "TicketHubFunction\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAADCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-11T20:02:40.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\Special Topics\\Assignment 4 - Funtion App\\TicketHubFunction\\Function1.cs",
+              "RelativeDocumentMoniker": "TicketHubFunction\\Function1.cs",
+              "ToolTip": "C:\\Users\\adria\\Special Topics\\Assignment 4 - Funtion App\\TicketHubFunction\\Function1.cs",
+              "RelativeToolTip": "TicketHubFunction\\Function1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T19:57:13.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "C:\\Users\\adria\\Special Topics\\Assignment 4 - Funtion App\\TicketHubFunction\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "TicketHubFunction\\Properties\\serviceDependencies.json",
+              "ToolTip": "C:\\Users\\adria\\Special Topics\\Assignment 4 - Funtion App\\TicketHubFunction\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "TicketHubFunction\\Properties\\serviceDependencies.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-11T20:30:24.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\adria\\Special Topics\\Assignment 4 - Funtion App\\TicketHubFunction\\.gitignore",
+              "RelativeDocumentMoniker": "TicketHubFunction\\.gitignore",
+              "ToolTip": "C:\\Users\\adria\\Special Topics\\Assignment 4 - Funtion App\\TicketHubFunction\\.gitignore",
+              "RelativeToolTip": "TicketHubFunction\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-11T20:00:01.361Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
